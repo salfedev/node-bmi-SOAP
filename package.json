@@ -1,0 +1,17 @@
+{
+  "name": "node-bmi",
+  "version": "1.0.0",
+  "description": "BMI Calculator",
+  "main": "index.js",
+  "scripts": {
+    "client": "node client.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1",
+    "soap": "^0.29.0"
+  }
+}
